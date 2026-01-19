@@ -74,26 +74,6 @@ node index.js
 5. Required data is extracted or the action is executed
 6. The result is returned via WebSocket or logged
 
----
-
-## 🧪 Example WebSocket Messages
-
-```json
-{
-  "action": "navigate",
-  "url": "https://example.com"
-}
-```
-
-```json
-{
-  "action": "getText",
-  "selector": "#content"
-}
-```
-
----
-
 ## 📄 License
 
 MIT License
